@@ -1,6 +1,6 @@
 # SmartHertz Permissions
 
-**YOU ONLY NEED TO DO THIS ON NON ROOTED OXYGEN OS**
+**YOU ONLY NEED TO DO THIS ON NON ROOTED OXYGEN OS OR SAMSUNG**
 
 SmartHertz needs a permission in order to change the display refresh rate, this permission can't be given by the user like any other. Because of this the application can be granted the permission in two different ways, if you give superuser permissions to the application it will give the permissions itself, if you are not rooted, you need to grant the permissions using adb.
 
